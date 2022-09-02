@@ -1,2 +1,2 @@
 # hello-world
-Primeiro repositório no curso da Cubos Academy
+Primeiro criado no curso de Desenvolvimento de Software da Cubos Academy
