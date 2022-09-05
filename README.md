@@ -1,2 +1,2 @@
 # hello-world
-Primeiro repositório criado no curso de Desenvolvimento de Software da Cubos Academy
+Primeiro repositório criado no curso de Desenvolvimento de Software da Cubos Academy. A atividade buscou implementar os conhecimentos sobre Git e Github, onde aprendemos como iniciar um repositório no Github e salvar versões de um projeto usando o Git e os comando do terminal.
